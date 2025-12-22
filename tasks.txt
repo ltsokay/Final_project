@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "Homework",
+    "priority": "normal",
+    "isDone": true
+  },
+  {
+    "id": 2,
+    "title": "Eat",
+    "priority": "high",
+    "isDone": true
+  }
+]
